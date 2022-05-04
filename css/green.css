@@ -1,0 +1,19 @@
+body{
+    background: url("../img/sierra.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;/*Si la imagen sale repetida y ya no se repita*/
+    background-size: cover;/*Para que la imagen coja toda la pagina*/
+}
+
+
+#logo{
+    background: #196F3D;
+    
+}
+#menu ul li:hover{
+    background: #196F3D;
+}
+.button-more{
+    background: #196F3D;
+    
+}

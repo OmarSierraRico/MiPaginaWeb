@@ -1,0 +1,19 @@
+body{
+    background: url("../img/cielo.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;/*Si la imagen sale repetida y ya no se repita*/
+    background-size: cover;/*Para que la imagen coja toda la pagina*/
+}
+
+
+#logo{
+    background: #F1C40F;
+    
+}
+#menu ul li:hover{
+    background: #F1C40F;
+}
+.button-more{
+    background: #F1C40F;
+    
+}

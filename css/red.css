@@ -1,0 +1,19 @@
+body{
+    background: url("../img/rojo.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;/*Si la imagen sale repetida y ya no se repita*/
+    background-size: cover;/*Para que la imagen coja toda la pagina*/
+}
+
+
+#logo{
+    background:  #CB4335;
+    
+}
+#menu ul li:hover{
+    background:  #CB4335;
+}
+.button-more{
+    background:  #CB4335;
+    
+}

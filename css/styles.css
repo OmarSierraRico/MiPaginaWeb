@@ -8,7 +8,7 @@
 }
 
 #global{
-    width: 65%;
+    width: 85%;
     margin: 0px auto;
     margin-top: 30px;
     padding: 20px;
@@ -54,7 +54,7 @@
     padding-right: 30px;
 }
 #posts{
-    width: 60%;
+    width: 40%;
     float: left;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -123,7 +123,7 @@ form input[Type="email"]{
     padding: 5px;
     border-radius: 2px;
     border: 1px solid #ccc;
-    width: 80%;
+    width: 85%;
     margin-bottom: 10px;
     margin-top: 5px;
 }
